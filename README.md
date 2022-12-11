@@ -1,11 +1,7 @@
-### Hi there!
-I'm Ben, a Computer Science Student from the UK.
 
----
 [![benjaminrall's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminrall&show_icons=true&count_private=true&theme=github_dark)](https://github.com/benjaminrall)
 
 [![benjaminrall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminrall&layout=compact&theme=github_dark)](https://github.com/benjaminrall)
----
 
 <!--
 **benjaminrall/benjaminrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
