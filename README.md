@@ -1,7 +1,7 @@
 
 [![benjaminrall's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminrall&show_icons=true&count_private=true&theme=github_dark)](https://github.com/benjaminrall)
 
-[![benjaminrall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminrall&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5&hide=hlsl,asp.net,shaderlab,css,html,mathematica)](https://github.com/benjaminrall)
+[![benjaminrall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminrall&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5&hide=hlsl,asp.net,shaderlab,css,html,mathematica,jupyter)](https://github.com/benjaminrall)
 
 <!--
 **benjaminrall/benjaminrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
